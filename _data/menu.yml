@@ -5,7 +5,6 @@ entries:
   - title: me
     entries:
       - title: email: wpb@outlook.my
-        url: mailto:riccardo.wpb@outlook.my
       - title: github repo
         url: https://github.com/riggraz/no-style-please
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
